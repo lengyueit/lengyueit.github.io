@@ -1,4 +1,4 @@
 auto: true
-baseurl: /~sangjin
+baseurl: /~lengyueit
 exclude: README.md, deploy.sh
 pygments: true
