@@ -1,4 +1,5 @@
 auto: true
-baseurl: /~lengyueit
+#baseurl: /~lengyueit
+baseurl: /
 exclude: README.md, deploy.sh
 pygments: true
